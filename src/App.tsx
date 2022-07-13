@@ -1,6 +1,7 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Button from "./Button";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Edit <code>App.dasddasdtsx</code> and save tasdsado reload.
         </p>
         <a
           className="App-link"
