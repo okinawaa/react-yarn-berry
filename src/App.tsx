@@ -1,16 +1,11 @@
-import React from "react";
-import logo from "./logo.svg";
-import Button from "~/components/Button";
-
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>App.dasddasdtsx</code> and save tasdsado reload.
+          Edit <code>App.dasddasdtsx</code> asdasand .
         </p>
         <a
           className="App-link"
